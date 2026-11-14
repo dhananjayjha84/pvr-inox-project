@@ -4,7 +4,7 @@ An end-to-end business intelligence project that analyses cinema bookings and fo
 
 🔗 **Live dashboard:** [Tabluea Public Link](https://public.tableau.com/views/PVRINOXBusinessPerformnceFY26/PVRINOXDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-![Dashboard preview](PVR INOX DASHBOARD.png)
+![Dashboard preview](PVR%20INOX%20DASHBOARD.png)
 
 ---
 
@@ -29,7 +29,7 @@ This project analyses **285K bookings** and **232K food orders** for a multi-cit
 | Excel | Source dataset |
 
 ## 🗂️ Dataset
-`PVR_INOX_PowerBI_Project_Dataset.xlsx`
+[PVR_INOX_PowerBI_Project_Dataset.xlsx](PVR_INOX_PowerBI_Project_Dataset.xlsx)
 
 | Sheet | Contents |
 |---|---|
@@ -87,7 +87,7 @@ All queries are in [`PVR_INOX_SQL_Analysis.sql`](PVR_INOX_SQL_Analysis.sql). The
 
 ## ▶️ How to Use
 1. Open the [live dashboard](https://public.tableau.com/views/PVRINOXBusinessPerformnceFY26/PVRINOXDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) and click any chart to filter the rest.
-2. To rerun the SQL, load the Excel sheets into SQLite or MySQL, using the sheet names as table names, then run `PVR_INOX_SQL_Analysis.sql`.
+2. To rerun the SQL, load the Excel sheets into SQLite or MySQL, using the sheet names as table names, then run [`PVR_INOX_SQL_Analysis.sql`](PVR_INOX_SQL_Analysis.sql).
 
 ## 📁 Repository Structure
 ```
