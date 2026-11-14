@@ -51,7 +51,6 @@ All queries are in [`PVR_INOX_SQL_Analysis.sql`](PVR_INOX_SQL_Analysis.sql). The
 - Booking-channel share (window function)
 - Food sales by item and spend per head
 - Occupancy (tickets sold ÷ seats offered)
-- Top 5 theatres (`RANK()`)
 
 ## 📊 Dashboard Features
 - 6 KPI cards with FY26 benchmarks
@@ -98,7 +97,7 @@ All queries are in [`PVR_INOX_SQL_Analysis.sql`](PVR_INOX_SQL_Analysis.sql). The
 ```
 
 ## 👤 Author
-**DJ**
-🔗 [LinkedIn](www.linkedin.com/in/dhananjay-jha-43085a241) | 📊 [Tableau Public](https://public.tableau.com/app/profile/dhananjay.jha8576)
+**Dhananjay Jha**
+🔗 [LinkedIn](https://www.linkedin.com/in/dhananjay-jha-43085a241) | 📊 [Tableau Public](https://public.tableau.com/app/profile/dhananjay.jha8576)
 
 *This is an independent portfolio project and is not affiliated with PVR INOX.*
