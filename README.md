@@ -1,6 +1,6 @@
 # 🎬 PVR INOX Business Performance Dashboard (SQL + Tableau)
 
-An end-to-end business intelligence project that analyses cinema bookings and food sales to show where revenue comes from and where it leaks.
+An end-to-end business intelligence project that analyses cinema bookings and food sales to show where revenue comes from and how performance compares to FY26 benchmarks.
 
 🔗 **Live dashboard:** [Tabluea Public Link](https://public.tableau.com/views/PVRINOXBusinessPerformnceFY26/PVRINOXDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
@@ -17,7 +17,7 @@ This project analyses **285K bookings** and **232K food orders** for a multi-cit
 1. How much revenue do tickets, food and convenience fees generate?
 2. Which states, genres and booking channels drive the most revenue?
 3. How full are the screens (occupancy), and how does it compare to the FY26 benchmark?
-4. How much revenue is lost to cancellations?
+4. What share of bookings is cancelled?
 5. Which food items sell the most, and how does spend per head compare to the benchmark?
 
 ## 🛠️ Tools & Skills
@@ -59,7 +59,7 @@ All queries are in [`PVR_INOX_SQL_Analysis.sql`](PVR_INOX_SQL_Analysis.sql). The
 - Booking-channel donut
 - Revenue by genre and food sales by item
 - Illustrative seat-map visual of screen occupancy
-- Cross-filtering: click any chart to filter the whole dashboard
+- Cross-filtering: click any chart, including the monthly trend, to filter the whole dashboard
 - Dropdown filters for quarter and booking channel
 
 ## 🔍 Key Insights
