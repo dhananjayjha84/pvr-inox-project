@@ -2,9 +2,9 @@
 
 An end-to-end business intelligence project that analyses cinema bookings and food sales to show where revenue comes from and where it leaks.
 
-🔗 **Live dashboard:** [View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
+🔗 **Live dashboard:** [Tabluea Public Link](https://public.tableau.com/views/PVRINOXBusinessPerformnceFY26/PVRINOXDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-![Dashboard preview](dashboard_preview.png)
+![Dashboard preview](PVR INOX DASHBOARD.png)
 
 ---
 
@@ -83,11 +83,10 @@ All queries are in [`PVR_INOX_SQL_Analysis.sql`](PVR_INOX_SQL_Analysis.sql). The
 ## 💡 Recommendations
 1. Promote combos and larger popcorn sizes to lift F&B spend per head toward the benchmark.
 2. Push app-exclusive offers, since it is the main booking channel.
-3. Run campaigns around the weak February period.
-4. Investigate the causes of the 6.1% cancellations and test reminders or flexible rebooking.
+3. Investigate the causes of the 6.1% cancellations and test reminders or flexible rebooking.
 
 ## ▶️ How to Use
-1. Open the [live dashboard](YOUR_TABLEAU_PUBLIC_LINK) and click any chart to filter the rest.
+1. Open the [live dashboard](https://public.tableau.com/views/PVRINOXBusinessPerformnceFY26/PVRINOXDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) and click any chart to filter the rest.
 2. To rerun the SQL, load the Excel sheets into SQLite or MySQL, using the sheet names as table names, then run `PVR_INOX_SQL_Analysis.sql`.
 
 ## 📁 Repository Structure
@@ -100,6 +99,6 @@ All queries are in [`PVR_INOX_SQL_Analysis.sql`](PVR_INOX_SQL_Analysis.sql). The
 
 ## 👤 Author
 **DJ**
-🔗 [LinkedIn](YOUR_LINKEDIN_LINK) | 📊 [Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
+🔗 [LinkedIn](www.linkedin.com/in/dhananjay-jha-43085a241) | 📊 [Tableau Public](https://public.tableau.com/app/profile/dhananjay.jha8576)
 
 *This is an independent portfolio project and is not affiliated with PVR INOX.*
